@@ -14,5 +14,5 @@
 
 ## Features
 
--   Creat interactive maps
--   Greatea tool for GIS
+-   Create interactive maps
+-   Great tool for GIS
