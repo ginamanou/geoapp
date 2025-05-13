@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://ginamanou.github.io/geoapp>
-    
+
 
 ## Features
 
