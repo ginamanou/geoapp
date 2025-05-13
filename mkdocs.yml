@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/ginamanou/geoapp/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - geoapp module: geoapp.md
           - common module: common.md
