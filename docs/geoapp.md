@@ -1,4 +1,0 @@
-
-# geoapp module
-
-::: geoapp.geoapp
