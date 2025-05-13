@@ -14,5 +14,5 @@
 
 ## Features
 
--   Creat interactive maps 
+-   Creat interactive maps
 -   Greatea tool for GIS
