@@ -10,8 +10,9 @@
 
 -   Free software: MIT License
 -   Documentation: https://ginamanou.github.io/geoapp
-    
+
 
 ## Features
 
--   TODO
+-   Creat interactive maps
+-   Greatea tool for GIS
