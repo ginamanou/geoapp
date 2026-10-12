@@ -2,7 +2,6 @@
 
 """Tests for `geoapp` package."""
 
-
 import unittest
 
 from geoapp import geoapp
